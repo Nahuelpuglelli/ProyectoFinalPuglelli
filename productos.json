@@ -1,0 +1,6 @@
+[
+    { "nombre": "FERNET", "precio": 12000, "stock": 6, "img": "img/fernet.jpg" },
+    { "nombre": "SMIRNOFF", "precio": 7000, "stock": 12, "img": "img/smirnoff.jpg" },
+    { "nombre": "WHISKY", "precio": 10700, "stock": 4, "img": "img/whisky.jpg" },
+    { "nombre": "GANCIA", "precio": 4500, "stock": 10, "img": "img/gancia.jpg" }
+]
